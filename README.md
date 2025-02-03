@@ -63,7 +63,6 @@
     <div class="hero">
         Rapid, AI-Driven Mobile Triage & Urgent Care Solutions
         <br><br>
-        <button>Learn More</button>
     </div>
     
     <div class="container">
