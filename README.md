@@ -74,7 +74,7 @@
         
         <div class="section">
             <h2>How It Works</h2>
-            <img src="how_it_works.jpg" alt="Process of mobile triage unit in action" class="image">
+            <alt="Process of mobile triage unit in action" class="image">
             <ul>
                 <li>Patient contacts TriagED or 911 dispatch identifies a non-life-threatening case.</li>
                 <li>AI-driven triage determines urgency and dispatches a mobile unit.</li>
