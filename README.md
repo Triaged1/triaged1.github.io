@@ -68,13 +68,13 @@
     <div class="container">
         <div class="section">
             <h2>Our Mission</h2>
-            <img src="mission.jpg" alt="Medical professionals assisting a patient" class="image">
+            <alt="Medical professionals assisting a patient" class="image">
             <p>TriagED is revolutionizing emergency care by providing on-site mobile triage units equipped with advanced diagnostics and AI-driven assessments. We reduce ER congestion, lower costs, and improve patient outcomes.</p>
         </div>
         
         <div class="section">
             <h2>How It Works</h2>
-            <alt="Process of mobile triage unit in action" class="image">
+            <"Process of mobile triage unit in action">
             <ul>
                 <li>Patient contacts TriagED or 911 dispatch identifies a non-life-threatening case.</li>
                 <li>AI-driven triage determines urgency and dispatches a mobile unit.</li>
@@ -85,7 +85,7 @@
         
         <div class="section">
             <h2>Why Choose TriagED?</h2>
-            <img src="why_choose_us.jpg" alt="Mobile triage unit providing care" class="image">
+            <alt="Mobile triage unit providing care" class="image">
             <ul>
                 <li>Faster care, reducing unnecessary ER visits.</li>
                 <li>Lower costs for patients, insurers, and hospitals.</li>
